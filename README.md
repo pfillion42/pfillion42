@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @pfillion42
 - 👀 I’m interested in IOT dev board and 3d print
 - 🌱 I’m currently learning how to code and use IOT board
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 pfillion42/pfillion42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
